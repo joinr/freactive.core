@@ -1,4 +1,4 @@
-(defproject freactive.core "0.2.1-SNAPSHOT"
+(defproject joinr/freactive.core "0.2.1-SNAPSHOT"
   :description "Generic reactive atoms, expressions, cursors"
   :url "https://github.com/aaronc/freactive.core"
   :license {:name "Eclipse Public License"
